@@ -94,7 +94,7 @@ shinyUI(fluidPage(
                            h2("Select Text Area"),
                            verbatimTextOutput("TextAreaIO"),
                            verbatimTextOutput("buttonIO"),
-                           verbatimTextOutput("linkIO"),
+                           verbatimTextOutput("linkIO")
                            
                 )
     )
