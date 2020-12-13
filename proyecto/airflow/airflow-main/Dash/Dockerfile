@@ -1,0 +1,41 @@
+FROM rocker/shiny:latest
+
+RUN apt-get update\
+    && apt-get install -y --no-install-recommends libmysqlclient-dev
+
+RUN R -e "install.packages('devtools')"
+RUN R -e "devtools::install_github('daattali/shinyjs')"
+RUN R -e "devtools::install_github('ebailey78/shinyBS')"
+RUN R -e "install.packages('leaflet')"
+RUN R -e "install.packages('shinyjs')"
+RUN R -e "install.packages('shinyBS')"
+RUN R -e "install.packages('shinyWidgets')"
+RUN R -e "install.packages('plotly')"
+RUN R -e "install.packages('shiny')"
+RUN R -e "install.packages('DT')"
+RUN R -e "install.packages('shinydashboard')"
+RUN R -e "install.packages('flexdashboard')"
+RUN R -e "install.packages('purrr')"
+RUN R -e "install.packages('shinythemes')"
+RUN R -e "install.packages('ggfortify')"
+RUN R -e "install.packages('flexdashboard')"
+RUN R -e "install.packages('formattable')"
+RUN R -e "install.packages('lubridate')"
+RUN R -e "install.packages('forecast')"
+RUN R -e "install.packages('reshape2')"
+RUN R -e "install.packages('quantmod')"
+RUN R -e "install.packages('tseries')"
+RUN R -e "install.packages('readxl')"
+RUN R -e "install.packages('dplyr')"
+RUN R -e "install.packages('tidyr')"
+RUN R -e "install.packages('httr')"
+RUN R -e "install.packages('xts')"
+RUN R -e "install.packages('leaflet.extras')"  
+RUN R -e "install.packages('RMySQL')" 
+RUN R -e "install.packages('pool')" 
+RUN R -e "install.packages('scales')" 
+RUN R -e "install.packages('hrbrthemes')" 
+RUN R -e "install.packages('dbplyr')" 
+RUN R -e "install.packages('broom')" 
+
+ 

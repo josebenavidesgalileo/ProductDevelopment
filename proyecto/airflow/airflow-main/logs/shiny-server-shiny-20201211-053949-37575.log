@@ -1,0 +1,324 @@
+su: ignoring --preserve-environment, it's mutually exclusive with --login
+
+Listening on http://127.0.0.1:37575
+
+Attaching package: ‘shinyjs’
+
+The following object is masked from ‘package:shiny’:
+
+    runExample
+
+The following objects are masked from ‘package:methods’:
+
+    removeClass, show
+
+
+Attaching package: ‘shinyWidgets’
+
+The following object is masked from ‘package:shinyjs’:
+
+    alert
+
+Loading required package: plotly
+Loading required package: ggplot2
+
+Attaching package: ‘plotly’
+
+The following object is masked from ‘package:ggplot2’:
+
+    last_plot
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following object is masked from ‘package:graphics’:
+
+    layout
+
+
+Attaching package: ‘DT’
+
+The following objects are masked from ‘package:shiny’:
+
+    dataTableOutput, renderDataTable
+
+
+Attaching package: ‘shinydashboard’
+
+The following object is masked from ‘package:graphics’:
+
+    box
+
+
+Attaching package: ‘flexdashboard’
+
+The following objects are masked from ‘package:shinydashboard’:
+
+    renderValueBox, valueBox, valueBoxOutput
+
+Loading required package: DBI
+
+Attaching package: ‘scales’
+
+The following object is masked from ‘package:purrr’:
+
+    discard
+
+NOTE: Either Arial Narrow or Roboto Condensed fonts are required to use these themes.
+      Please use hrbrthemes::import_roboto_condensed() to install Roboto Condensed and
+      if Arial Narrow is not on your system, please see https://bit.ly/arialnarrow
+
+Attaching package: ‘formattable’
+
+The following objects are masked from ‘package:scales’:
+
+    comma, percent, scientific
+
+The following object is masked from ‘package:plotly’:
+
+    style
+
+
+Attaching package: ‘lubridate’
+
+The following objects are masked from ‘package:base’:
+
+    date, intersect, setdiff, union
+
+Registered S3 method overwritten by 'quantmod':
+  method            from
+  as.zoo.data.frame zoo 
+Registered S3 methods overwritten by 'forecast':
+  method                 from     
+  autoplot.Arima         ggfortify
+  autoplot.acf           ggfortify
+  autoplot.ar            ggfortify
+  autoplot.bats          ggfortify
+  autoplot.decomposed.ts ggfortify
+  autoplot.ets           ggfortify
+  autoplot.forecast      ggfortify
+  autoplot.stl           ggfortify
+  autoplot.ts            ggfortify
+  fitted.ar              ggfortify
+  fortify.ts             ggfortify
+  residuals.ar           ggfortify
+Loading required package: reshape2
+Loading required package: xts
+Loading required package: zoo
+
+Attaching package: ‘zoo’
+
+The following objects are masked from ‘package:base’:
+
+    as.Date, as.Date.numeric
+
+
+Attaching package: ‘xts’
+
+The following object is masked from ‘package:leaflet’:
+
+    addLegend
+
+Loading required package: TTR
+Version 0.4-0 included new data defaults. See ?getSymbols.
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:xts’:
+
+    first, last
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘tidyr’
+
+The following object is masked from ‘package:reshape2’:
+
+    smiths
+
+
+Attaching package: ‘httr’
+
+The following object is masked from ‘package:plotly’:
+
+    config
+
+Note: Using an external vector in selections is ambiguous.
+ℹ Use `all_of(listaPaisesCA)` instead of `listaPaisesCA` to silence this message.
+ℹ See <https://tidyselect.r-lib.org/reference/faq-external-vector.html>.
+This message is displayed once per session.
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 1 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 2 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 3 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 1 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 2 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 3 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning: plotly.js does not (yet) support horizontal legend items 
+You can track progress here: 
+https://github.com/plotly/plotly.js/issues/53 
+
+Warning: `group_by_()` is deprecated as of dplyr 0.7.0.
+Please use `group_by()` instead.
+See vignette('programming') for more help
+This warning is displayed once every 8 hours.
+Call `lifecycle::last_warnings()` to see where this warning was generated.
+Warning: Error in loadNamespace: there is no package called ‘broom’
+  111: <Anonymous>
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 1 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 2 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 3 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 1 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 2 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 3 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning: plotly.js does not (yet) support horizontal legend items 
+You can track progress here: 
+https://github.com/plotly/plotly.js/issues/53 
+
+Warning: Error in loadNamespace: there is no package called ‘broom’
+  111: <Anonymous>
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 1 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 2 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 3 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 1 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 2 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 3 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning: plotly.js does not (yet) support horizontal legend items 
+You can track progress here: 
+https://github.com/plotly/plotly.js/issues/53 
+
+Warning: Error in loadNamespace: there is no package called ‘broom’
+  111: <Anonymous>
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning in .local(conn, statement, ...) :
+  Decimal MySQL column 4 imported as numeric
+Warning: plotly.js does not (yet) support horizontal legend items 
+You can track progress here: 
+https://github.com/plotly/plotly.js/issues/53 
+
+Warning: Error in loadNamespace: there is no package called ‘broom’
+  111: <Anonymous>
+Warning in value[[3L]](cond) :
+  Object of class MySQLConnection could not be destroyed properly, but was successfully removed from pool. Error message: internal error in RS_DBI_getConnection: corrupt connection handle
+Warning: It wasn't possible to activate and/or validate the object. Trying again with a new object.
+Warning in value[[3L]](cond) :
+  Object of class MySQLConnection could not be destroyed properly, but was successfully removed from pool. Error message: internal error in RS_DBI_getConnection: corrupt connection handle
+Warning: It wasn't possible to activate and/or validate the object. Trying again with a new object.
+Warning: position_dodge requires non-overlapping x intervals
+Warning in if (nchar(plot$labels$title %||% "") > 0) { :
+  the condition has length > 1 and only the first element will be used
+Warning: plotly.js does not (yet) support horizontal legend items 
+You can track progress here: 
+https://github.com/plotly/plotly.js/issues/53 
+
+Warning: Error in loadNamespace: there is no package called ‘broom’
+  111: <Anonymous>
+Warning: Ignoring unknown aesthetics: Fechas, text
+Warning: Ignoring unknown aesthetics: Fechas, text
+Warning: Ignoring unknown aesthetics: Fechas, text
+Warning: Ignoring unknown aesthetics: Fechas, text
+Warning: Ignoring unknown aesthetics: Fechas, text
+Warning: Ignoring unknown aesthetics: Fechas, text
+Warning: Ignoring unknown aesthetics: Fechas, text
+Warning in value[[3L]](cond) :
+  Object of class MySQLConnection could not be destroyed properly, but was successfully removed from pool. Error message: internal error in RS_DBI_getConnection: corrupt connection handle
+Warning: It wasn't possible to activate and/or validate the object. Trying again with a new object.
+Warning in value[[3L]](cond) :
+  Object of class MySQLConnection could not be destroyed properly, but was successfully removed from pool. Error message: internal error in RS_DBI_getConnection: corrupt connection handle
+Warning: It wasn't possible to activate and/or validate the object. Trying again with a new object.
+Warning: position_dodge requires non-overlapping x intervals
+Warning in if (nchar(plot$labels$title %||% "") > 0) { :
+  the condition has length > 1 and only the first element will be used
+Warning: Error in loadNamespace: there is no package called ‘broom’
+  111: <Anonymous>
+Warning: Error in loadNamespace: there is no package called ‘broom’
+  111: <Anonymous>
+Warning: Error in loadNamespace: there is no package called ‘forcats’
+  126: <Anonymous>
+
